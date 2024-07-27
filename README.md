@@ -37,7 +37,7 @@ To get a local copy of the project up and running, follow these steps:
 
 1. Clone the repository:
    sh
-   git clone https://github.com/your-username/sunnyside-agency-landing-page.git
+   git clone https://github.com/Nichodemusdev/sunnyside-agency-landing-page.git
    
 
 2. Navigate to the project directory:
